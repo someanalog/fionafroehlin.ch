@@ -260,7 +260,7 @@ img:hover {
      padding: 20px;
      z-index: 1200;
     background-color: magenta;
-  box-shadow: 0px 0px 42px 66px greenyellow;
+  box-shadow: 0px 0px 42px 66px magenta;
     border-radius: 20px 20px 20px;
     color: black;
     height: auto;
@@ -401,7 +401,7 @@ padding: 0;
     bottom: 10%;
     top: unset;
      box-shadow: 0px 0px 22px 36px greenyellow;
-	background-color:greenyellow;
+	background-color:magenta;
     padding: 7px;
 	border-radius:40px;
 	cursor:pointer;
@@ -521,7 +521,7 @@ padding: 0;
 }
 
 .backpfeil:hover {
-        color:greenyellow;
+        color:magenta;
 }
 
 
